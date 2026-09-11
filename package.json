@@ -1,0 +1,22 @@
+{
+  "name": "@zeppos/device-types",
+  "version": "4.0.0",
+  "description": "TypeScript type definitions for Zepp OS device APIs",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "zeppos",
+    "zepp",
+    "typescript",
+    "types",
+    "definitions",
+    "wearable"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@zeppos/device-types": "^4.0.0",
+    "typescript": "^7.0.2"
+  }
+}
